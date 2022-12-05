@@ -1,0 +1,4 @@
+,Null Count,Null Percentage,DataTypes
+date,195997,92.0,datetime64[ns]
+stock_id,195997,92.0,float64
+city,12816,6.0,category
